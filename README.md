@@ -1,5 +1,6 @@
 # testAndroidAES
 AES128 & AES 256 for Android
+
 AES 128：
 
     String _plainText = "This is the text to be encrypted"; // 明文    
